@@ -1,10 +1,16 @@
-# calculator
+# Calculator
 
-A new Flutter project.
+A new Flutter project of calculator.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+After pulling the data run 
+## flutter pub get 
+in ternimal 
+
+![Calculator](https://user-images.githubusercontent.com/124651720/217433416-fea4cb7c-ca5d-4ce2-a7e0-57ea512a526a.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
